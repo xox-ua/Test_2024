@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Mornhouse_test" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="android:colorSecondary">@color/purple_700</item>
+
+    </style>
+
+
+</resources>

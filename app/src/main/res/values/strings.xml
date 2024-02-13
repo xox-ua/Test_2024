@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mornhouse_test</string>
+    <string name="company_name">MORNHOUSE</string>
+    <string name="company_task">test task</string>
+    <string name="get_fact">Get fact</string>
+    <string name="get_fact_random">Get fact about random number</string>
+    <string name="edit_text_hint">2024</string>
+</resources>
